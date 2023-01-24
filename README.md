@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm professional iOS developer. ✨
+✨ I'm Software Engineer from Pune, India. ✨
 
 - 🔭 I’m currently working on Swift.
 - 🌱 I’m currently learning SwiftUI.
