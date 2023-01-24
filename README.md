@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-✨ I'm professional iOS developer ✨
+✨ I'm professional iOS developer. ✨
 
 - 🔭 I’m currently working on Swift.
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on Startups/Services ideas
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning SwiftUI.
+- 👯 I’m looking to collaborate on Startups/Services ideas.
 - 💬 Ask me about Swift and Objective C.
 
 <!--
