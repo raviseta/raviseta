@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm Software Engineer from Pune, India. ✨
+✨ <b> I'm Software Engineer from Pune, India. </b> ✨
 
 - 🔭 I’m currently working on Swift.
 - 🌱 I’m currently learning SwiftUI.
