@@ -2,10 +2,10 @@
 
 ✨ <b> I'm Software Engineer from Pune, India. </b> ✨
 
-- 🔭 I’m currently working on Swift.
-- 🌱 I’m currently learning SwiftUI.
+- 🔭 I’m currently working on Swift & SwiftUI.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Startups/Services ideas.
-- 💬 Ask me about Swift and Objective C.
+- 💬 Ask me about Swift and SwiftUI.
 
 <!--
 **raviseta/raviseta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
