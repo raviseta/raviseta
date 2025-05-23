@@ -1,23 +1,33 @@
-### Hi there 👋
+# 👋 Hi there! I'm a Software Engineer from Pune, India
 
-✨ <b> I'm Software Engineer from Pune, India. </b> ✨
+✨ Passionate about crafting seamless mobile experiences with Swift and SwiftUI  
+🔭 Currently building apps using **Swift & SwiftUI**  
+🌱 Learning **Flutter** to broaden my cross-platform skills  
+👯 Always open to **collaborating on startup ideas** or **freelance service projects**  
+💬 Ask me anything about **Swift**, **SwiftUI**, or mobile app architecture  
 
-- 🔭 I’m currently working on Swift & SwiftUI.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on Startups/Services ideas.
-- 💬 Ask me about Swift and SwiftUI.
+---
 
-<!--
-**raviseta/raviseta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies & Tools
 
-Here are some ideas to get you started:
+- 🛠 Swift, SwiftUI, Combine
+- 🌐 REST APIs, Firebase, CoreData
+- 🧱 MVVM, Clean Architecture, VIPER
+- 🖼 Figma to iOS workflows
+- 🌍 Git, GitHub, Xcode
 
-- 🔭 I’m currently working on Swift.
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on Startups/Services ideas
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Swift and Objective C.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-seta07/) 
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=raviseta&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
