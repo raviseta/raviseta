@@ -20,7 +20,8 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-seta07/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-seta07/)
+- Mail: mr.raviseta@gmail.com
 
 ---
 
