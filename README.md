@@ -1,24 +1,24 @@
-# 👋 Hi, I’m Ravi — iOS Software Engineer
+# 👋 Hi, I’m Ravi — iOS & Mobile Software Engineer
 
 📍 Pune, India  
-💼 iOS Engineer specializing in **Swift & SwiftUI**  
+💼 Mobile Engineer specializing in **iOS (Swift, SwiftUI)** and **Flutter**  
 🚀 Building **scalable, production-ready mobile applications**  
-🤝 Open to **full-time, contract, and freelance iOS roles**
+🤝 Open to **full-time, contract, and freelance mobile roles**
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-Results-driven iOS Software Engineer with strong experience in building **high-performance, user-centric iOS applications**. Skilled in modern iOS development, clean architecture, and translating Figma designs into polished SwiftUI interfaces. Comfortable owning features end-to-end and collaborating in agile teams.
+Results-driven Mobile Software Engineer with experience building **high-performance iOS and cross-platform applications**. Strong in **Swift, SwiftUI**, and **Flutter**, with a solid understanding of clean architecture and scalable codebases. Experienced in translating Figma designs into pixel-perfect mobile interfaces and delivering features end-to-end.
 
 ---
 
 ## 🔑 Core Skills
 
-### 📱 iOS Development
+### 📱 Mobile Development
 - Swift, SwiftUI, Combine
-- UIKit (as needed)
-- App lifecycle & performance optimization
+- Flutter (Cross-platform)
+- UIKit (when required)
 
 ### 🧠 Architecture & Patterns
 - MVVM
@@ -32,23 +32,23 @@ Results-driven iOS Software Engineer with strong experience in building **high-p
 - CoreData
 
 ### 🎨 Design & Collaboration
-- Figma → iOS implementation
+- Figma → iOS & Flutter implementation
 - Pixel-perfect UI & animations
 - Git, GitHub, Xcode
 
 ---
 
 ## 💼 What I Bring to a Team
-- ✅ Production-level iOS development experience
+- ✅ Production-level iOS & Flutter development experience
 - ✅ Strong understanding of Apple Human Interface Guidelines
-- ✅ Clean, testable, and maintainable code
-- ✅ Ownership mindset from requirement to delivery
+- ✅ Clean, maintainable, and testable code
+- ✅ Ownership mindset from requirement to App Store delivery
 - ✅ Effective communication & remote collaboration
 
 ---
 
 ## 🤝 Open To
-- iOS Engineer roles (Remote / On-site)
+- iOS / Flutter Engineer roles
 - Contract & freelance projects
 - Startup & product-based teams
 
@@ -61,7 +61,8 @@ Results-driven iOS Software Engineer with strong experience in building **high-p
 ---
 
 ## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviseta&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviseta&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ---
 
