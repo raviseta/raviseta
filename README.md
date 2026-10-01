@@ -1,69 +1,142 @@
-# 👋 Hi, I’m Ravi — iOS & Mobile Software Engineer
+# Hi, I'm Ravi Seta 👋
 
-📍 Pune, India  
-💼 Mobile Engineer specializing in **iOS (Swift, SwiftUI)** and **Flutter**  
-🚀 Building **scalable, production-ready mobile applications**  
-🤝 Open to **full-time, contract, and freelance mobile roles**
+### Senior Software Engineer | iOS • Swift • SwiftUI | React Native | AI & Edge AI
 
----
+I’m a Senior Software Engineer with 11+ years of experience building production mobile applications, with a strong focus on iOS, Swift, SwiftUI and software architecture.
 
-## 🧑‍💻 Professional Summary
+I enjoy building software that is maintainable, testable and practical — from application architecture and reusable components to APIs, testing, performance and platform integrations.
 
-Results-driven Mobile Software Engineer with experience building **high-performance iOS and cross-platform applications**. Strong in **Swift, SwiftUI**, and **Flutter**, with a solid understanding of clean architecture and scalable codebases. Experienced in translating Figma designs into pixel-perfect mobile interfaces and delivering features end-to-end.
+Currently, I'm expanding my engineering focus in two directions:
 
----
-
-## 🔑 Core Skills
-
-### 📱 Mobile Development
-- Swift, SwiftUI, Combine
-- Flutter (Cross-platform)
-- UIKit (when required)
-
-### 🧠 Architecture & Patterns
-- MVVM
-- Clean Architecture
-- VIPER
-- Modular & scalable codebases
-
-### 🔧 Backend & Data
-- REST API integration
-- Firebase
-- CoreData
-
-### 🎨 Design & Collaboration
-- Figma → iOS & Flutter implementation
-- Pixel-perfect UI & animations
-- Git, GitHub, Xcode
+* 📱 **Cross-platform development** with React Native
+* 🤖 **AI & Edge AI**, with a particular interest in on-device, privacy-preserving and energy-efficient machine learning
 
 ---
 
-## 💼 What I Bring to a Team
-- ✅ Production-level iOS & Flutter development experience
-- ✅ Strong understanding of Apple Human Interface Guidelines
-- ✅ Clean, maintainable, and testable code
-- ✅ Ownership mindset from requirement to App Store delivery
-- ✅ Effective communication & remote collaboration
+## 🧑‍💻 What I Work With
+
+### Mobile Engineering
+
+* Swift
+* SwiftUI
+* UIKit
+* Objective-C
+* Combine
+* watchOS
+* HealthKit
+
+### Architecture & Engineering
+
+* MVVM
+* Clean Architecture
+* VIPER
+* TCA
+* SOLID principles
+* Dependency Injection
+* Modular architecture
+* Unit & UI testing
+
+### APIs & Development
+
+* REST APIs
+* GraphQL
+* Networking
+* Git & GitHub
+* XCTest / XCUI
+* CI/CD
+
+### Exploring
+
+* React Native
+* Machine Learning
+* On-device AI
+* Edge AI
+* Federated Learning
+* Privacy-preserving ML
+* Energy-efficient AI
 
 ---
 
-## 🤝 Open To
-- iOS / Flutter Engineer roles
-- Contract & freelance projects
-- Startup & product-based teams
+## 🚀 Featured Projects
+
+### 🏗️ CleanArchitecture-SwiftUI
+
+A SwiftUI project exploring Clean Architecture, SwiftData, dependency injection, networking, SOLID principles, unit testing and UI testing.
+
+👉 [View Repository](https://github.com/raviseta/CleanArchitecture-SwiftUI)
+
+### 📱 GraphQL-Demo
+
+An iOS project exploring GraphQL integration and modern mobile networking patterns.
+
+👉 [View Repository](https://github.com/raviseta/GraphQL-Demo)
+
+### 📊 Data & Analytics
+
+Exploring data analysis, visualization and practical data workflows through projects involving Python, SQL and analytics.
 
 ---
 
-## 📫 Contact
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-seta07/)
-- 📧 Email: mr.raviseta@gmail.com
+## 🔬 AI & Edge AI Research
+
+I'm currently exploring the intersection of **mobile engineering and artificial intelligence**, with a particular interest in:
+
+* On-device machine learning
+* Privacy-preserving AI
+* Federated Learning
+* Energy-efficient inference
+* Efficient AI deployment on resource-constrained devices
+
+My goal is to understand not only how AI models work, but also how they can be deployed efficiently and responsibly on real devices.
+
+I share my research notes, experiments and implementations as I progress.
 
 ---
 
-## 📈 GitHub Activity
+## 📚 What I'm Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviseta&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+```text
+Mobile Engineering
+       │
+       ├── iOS / Swift / SwiftUI
+       │
+       └── React Native
+              │
+              ↓
+        Mobile + AI
+              │
+              ↓
+          Edge AI
+        ↙          ↘
+   Privacy       Efficiency
+```
+
+I believe the best way to learn is to combine **research, experimentation and implementation**.
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+## ✍️ Writing & Learning
+
+I write about:
+
+* iOS and SwiftUI development
+* Mobile architecture
+* React Native
+* Software engineering
+* AI and Edge AI
+* Lessons from building and experimenting with technology
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/ravi-seta07/)
+* 💻 [GitHub](https://github.com/raviseta)
+
+I'm interested in connecting with engineers, researchers and builders working across **mobile software, AI and Edge AI**.
+
+---
+
+### Current Focus
+
+> Building better mobile software while exploring how AI can run more privately and efficiently at the edge.
