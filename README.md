@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | iOS • Swift • SwiftUI | React Native | AI & Edge AI
 
-I’m a Senior Software Engineer with 11+ years of experience building production mobile applications, with a strong focus on iOS, Swift, SwiftUI and software architecture.
+I’m a Senior Software Engineer with 12+ years of experience building production mobile applications, with a strong focus on iOS, Swift, SwiftUI and software architecture.
 
 I enjoy building software that is maintainable, testable and practical — from application architecture and reusable components to APIs, testing, performance and platform integrations.
 
